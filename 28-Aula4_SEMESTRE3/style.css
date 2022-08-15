@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.container .content {
+    padding: 5px;
+    border-radius: 10px;
+    height: 400px;
+    width: 800px;
+    border: solid black 1px;
+}
+
+.container .content .frescurinha img {
+    overflow: hidden;
+    width: 100%;
+    height: 20px;
+}
+
+.container .content .box1 {
+    display: flex;
+    width: 100%;
+    height: 49%;
+}
+
+.container .content .box1 .perfil img {
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.container .content .box1 .informacao {
+    background: pink;
+    padding: 5px;
+    height: 100%;
+    width: 90%;
+}
+
+.container .content .box2 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 49%;
+}
+
+.container .content .box2 .texto {
+    height: 90%;
+    width: 100%;
+}
