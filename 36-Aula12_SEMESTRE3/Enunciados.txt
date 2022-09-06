@@ -1,0 +1,7 @@
+1 - escrever um algoritmo que recebe um numero informado pelo usuario. verifique e escreve se esse numero é positivo , negativo ou igual a 0 
+
+2 - construa um algotimo que receba um numero inteiro do usuario, calcule seu fatorial da entrada, exiba o passo a passo da operação e mostre o resultado
+
+3 - desenvolver um sistema para calcular e exibir a media final de um estudante (professor pode escolher a quantidade de atividades avaliativas feita pelo estudante) se media maior que 6 exiba que esta aprovado ou reprovado
+
+4 - desenvolva uma pagina web na qual o usuario diga sua data de nascimento e o sistema informe o dia da semana que ele nasceu (teoria de divisao euclidiana)
